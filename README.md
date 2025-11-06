@@ -34,7 +34,8 @@ Source:https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.20
 
 Stroke of course, effects the brain i chose heart and arteries as those variables tend to have larger impact
 
-![image.png](attachment:34ab5876-e663-444b-96aa-550075250f28:image.png)
+<img width="290" height="173" alt="image" src="https://github.com/user-attachments/assets/655d69a7-c925-444b-bc2c-317a7cd3bdd5" />
+
 
 **Heart Disease or Attack**: Heart and Arteries
 
